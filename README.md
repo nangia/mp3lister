@@ -5,4 +5,11 @@ to have a printed copy of mp3 files indicating the number along with what each f
 
 This python code walks through the mp3 files and then generates a .csv file for it. Open the .csv file, format it appropriately and print it.
 
-Tested with python 2.7.10 and on Mac OS X 10.10.5 though it should work on other platforms too. 
+
+# Requirements
+
+To run this you should have python 2.7.10. Have tested it on Mac OS X 10.10.5 though it should work on other platforms too.
+
+Use the following command to install python dependencies.
+
+pip install -r requirements.txt
